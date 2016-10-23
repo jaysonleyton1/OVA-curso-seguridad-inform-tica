@@ -400,3 +400,113 @@ p {
 	font-weight: normal;
 	color: #333;
 }
+/*actividades*/
+#act1
+{
+	background:#ffffff ;
+	width: 685px;
+	height: 90px;
+	margin-left: 14px;
+
+
+
+}
+
+#act2
+{
+	background: #FFFFFF;
+	 width: 685px;
+	height: 125px;
+	margin-left: 14px;
+	margin-top: 10px;
+}
+#pact2
+{
+	font-family:'Shadows Into Light', cursive;
+	font-size: 15px;
+	text-align: left;
+	margin-bottom: 3px;
+
+
+}
+
+#act3
+{
+background:#FFFF00;
+	width: 685px;
+	height: 100px;
+	margin-left: 14px;
+	margin-top: 40px;
+	border-radius: 5px;
+
+
+
+}
+#pcon1
+{
+	font-family:'Shadows Into Light', cursive;
+	font-size: 15px;
+	text-align: left;
+	position: relative;
+	
+}
+#pcon2
+{
+	font-family:'Shadows Into Light', cursive;
+	font-size: 15px;
+	text-align: left;
+	position:relative;
+	
+}
+
+#act4
+{
+	background: #FFFF00;
+	width: 685px;
+	height: 100px;
+	margin-left: 14px;
+	margin-top: 10px;
+	border-radius: 5px;
+
+}
+
+#pcon3 
+{
+	
+	font-family:'Shadows Into Light', cursive;
+	font-size: 15px;
+	text-align: left;
+	position:relative;
+}
+#pcon4
+{
+	font-family:'Shadows Into Light', cursive;
+	font-size: 15px;
+	text-align: left;
+	position:relative;
+
+}
+#act5
+{
+	background: #FFFF00;
+	width: 685px;
+	height: 100px;
+	margin-left: 14px;
+	margin-top: 10px;
+	border-radius: 5px;
+	}
+
+#pcon5
+{
+	font-family:'Shadows Into Light', cursive;
+	font-size: 15px;
+	text-align: left;
+	position:relative;
+}
+#pcon6
+{
+	font-family:'Shadows Into Light', cursive;
+	font-size: 15px;
+	text-align: left;
+	position:relative;
+}
